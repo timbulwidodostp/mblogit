@@ -1,6 +1,8 @@
 # mblogit
 Baseline-Category Logit Models for Categorical and Multinomial Responses Use mblogit (mclogit) With (In) R Software
 
+https://www.youtube.com/watch?v=UzyBe28T3VY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
